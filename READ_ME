@@ -1,0 +1,30 @@
+To run the code:
+
+1) Extract the contents of the zip file completely, including all the image files. 
+2) Make sure all the contents are in the same folder.
+3)Go to terminal and run 'python video_filters.py --faceswap --leo'
+
+			OR
+
+We have made an stand-alone Linux executable file for our project named 'video_filters' which can be run from the Linux terminal using the command './video_filters --faceswap --leo'
+
+The following options can be given as arguments
+
+	    --glasses
+            --moustache
+            --faceswap  
+	    --buzzface
+	    --pandaface
+	    --bunnyears
+	    --antler
+	    --christmastheme
+	    --christmashat
+	    --skull
+	    --crown
+	    --harrypotter
+	    --gatech
+    	    --blinkinghearts
+	    --ribbon
+
+
+
